@@ -86,4 +86,4 @@ npm run preview
 ```
 
 ## 📄 License
-- This project is licensed under the MIT License - see the [Link](https://github.com/Nipuna-Heshan/movie-app?tab=MIT-1-ov-file) file for details.
+- This project is licensed under the MIT License - see the [Link](https://github.com/Nipuna-Heshan/movie-app/blob/main/LICENSE) file for details.
